@@ -1,0 +1,235 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.repupress-premium-social-div {
+    width: 100%;
+    height: 3900px; 
+    overflow: hidden;
+    margin: auto;
+}
+.repupress-premium-social-div iframe {
+	width: 100%;
+    height: 4000px;
+    margin-top: -140px;
+}
+.primary-options-page-div {
+	padding: 25px 75px;
+}
+.information-block-div-1 {
+	padding: 20px 50px;
+	border: 1px soloid #f8f8f8;
+	background-color: #ffffff;
+	min-height: 525px;
+	margin: 12.5px 0px;
+}
+.repupress-premium-social-div {
+	margin-top: 50px;
+}
+.text-center {
+	text-align: center;
+}
+.alignleft {
+	float: left;
+	margin-right: 25px;
+}
+.onpage-post-seo-p {
+	font-size: 15px;
+	line-height: 1em;
+	font-family: 'Montserrat', sans-serif;
+}
+.border-box {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.smaasb-posts {
+  background: #fff;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0 10px;
+  float: left;
+  margin: 20px 0;
+}
+.smaasb-posts .fa-facebook-square {
+  color: #3e5b98;
+}
+.smaasb-posts .fa-twitter-square {
+  color: #4DA7DE;
+}
+.smaasb-posts .fa-linkedin-square {
+  color: #3371B7;
+}
+.smaasb-posts .fa-pinterest-square {
+  color: #C92619;
+}
+.smaasb-posts .fa-google-plus-square {
+  color: #dd4b39;
+}
+@media only screen and (max-width: 799px) {
+  .smaasb-posts .efficiency {
+    display: none;
+  }
+}
+.smaasb-posts h3 {
+  position: relative;
+}
+.smaasb-posts h3 span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-weight: normal;
+  font-size: 12px;
+  color: #999999;
+}
+.smaasb-posts.smaasb-posts-popup h3 {
+  margin: 0 0 5px 10px;
+}
+.smaasb-posts.smaasb-posts-popup h4 {
+  margin: 0 0 20px 10px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: normal;
+}
+.smaasb-posts.smaasb-posts-popup table {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+.smaasb-posts.smaasb-posts-popup td {
+  width: 17%;
+  border: 1px #b5b5b5 solid;
+  border-radius: 5px;
+}
+.smaasb-posts.smaasb-posts-popup td .fa {
+  font-size: 36px;
+  display: block;
+  margin-bottom: 6px;
+  margin-top: 6px;
+}
+.smaasb-posts.smaasb-posts-popup td.total {
+  width: 15%;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-color: #83cde7;
+  color: #83cde7;
+  font-size: 24px;
+}
+.smaasb-posts.smaasb-posts-popup td.total b {
+  display: block;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.smaasb-posts table {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.smaasb-posts table thead,
+.smaasb-posts table tfoot {
+  font-weight: bold;
+  border-bottom: 2px #ededed solid;
+}
+.smaasb-posts table thead .fa,
+.smaasb-posts table tfoot .fa {
+  font-size: 18px;
+}
+.smaasb-posts table thead td,
+.smaasb-posts table tfoot td {
+  vertical-align: top;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 2px #ededed solid !important;
+}
+.smaasb-posts table tr {
+  margin: 0;
+  padding: 0;
+}
+.smaasb-posts table tr:last-child td {
+  border-bottom: 0;
+}
+.smaasb-posts table tr td {
+  margin: 0;
+  padding: 9px 0;
+  border-bottom: 2px #ededed solid;
+  vertical-align: middle;
+}
+.smaasb-posts table tr td a {
+  text-decoration: none;
+  transition: opacity .2s ease;
+}
+.smaasb-posts table tr td a:hover {
+  opacity: .7;
+}
+.smaasb-posts table tr td.title {
+  line-height: 1.2;
+}
+.smaasb-posts table tr td.title .name {
+  color: #222222;
+  font-size: 13px;
+  display: inline-block;
+  overflow: hidden;
+}
+.smaasb-posts table tr td.thumb {
+  width: 60px;
+}
+.smaasb-posts table tr td.thumb img,
+.smaasb-posts table tr td.thumb span {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px #ededed solid;
+}
+.smaasb-posts table tr td.thumb span {
+  background: #ededed;
+  text-align: center;
+}
+.smaasb-posts table tr td.thumb span i {
+  padding-top: 12px;
+  color: #fff;
+  font-size: 18px;
+}
+.smaasb-posts table tr td.total {
+  font-weight: bold;
+  font-size: 14px;
+}
+.smaasb-posts table tr td.center {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.smaasb-posts table tr td.center .zero {
+  color: #ccc;
+}
+@media only screen and (max-width: 799px) {
+  .smaasb-posts table tr td.center {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}
+.smaasb-posts table tr td.line {
+  width: 10%;
+  text-align: right;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.smaasb-posts table tr td .bar {
+  display: inline-block;
+  width: 100%;
+  position: relative;
+  vertical-align: middle;
+  height: 9px;
+  background-color: #deeffc;
+  border-radius: 10px;
+}
+.smaasb-posts table tr td .bar span {
+  display: inline-block;
+  position: absolute;
+  top: 1px;
+  left: 0;
+  bottom: 1px;
+  background-color: #83cde7;
+}
